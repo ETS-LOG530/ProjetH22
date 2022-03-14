@@ -2,6 +2,7 @@
 ### Session : Hiver 2022
 ### Présentation du projet
 #### Date de remise :  8 avril 2022 à 23h59
+#### Date de présentation orale :  11 avril 2022 à 13h30
 
 #### Table des matières
 1. [Description et réglements](#description)
@@ -75,6 +76,6 @@ Pour faciliter la correction, vous devez nommer vos fichiers de la façon suivan
 
 
 ``
-LOG530H2021-Presentation-CodePermanent1-CodePermanent2-CodePermanent3
+LOG530H202e-Presentation-CodePermanent1-CodePermanent2-CodePermanent3
 ``
 
