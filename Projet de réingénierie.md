@@ -113,7 +113,7 @@ Il sera important de re-penser la suite de tests de manière à ce qu'elle puiss
 
 
 Organiser le travail à faire entre les membres de l’équipe et estimer l'effort et le temps requis pour :
-1. Le refactoring pour faciliter/supporter les nouvelles fonctionnalités, et
+1. Le refactoring pour faciliter/supporter la nouvelle fonctionnalité, et
 2. Modifier/étendre les tests.
 
 <a name="partie4"></a>
