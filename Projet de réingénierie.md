@@ -50,7 +50,7 @@ Votre mission en tant qu'équipe de réingénierie logicielle travaillant pour l
 un système de notation (rating) pour les joueurs Humains et Bots. La société X n'a pas encore décidé la formule exacte pour son système de notation des joueurs, 
 et vous devez en tenir compte dans vos activités de réingénierie.
 
-Si vous avez besoin d'un exemple concret de système de notation pour mieux comprendre le contexte, vous pouvez imaginer quelque chose de similaire au [système de classement Elo](https://en.wikipedia.org/wiki/Elo_rating_system).
+Si vous avez besoin d'un exemple concret de système de notation pour mieux comprendre le contexte, vous pouvez imaginer quelque chose de similaire au [système de classement Elo](https://fr.wikipedia.org/wiki/Classement_Elo).
 
 
 
