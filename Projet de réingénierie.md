@@ -68,7 +68,7 @@ Afin de travailler sur ce projet de réingénierie, veuillez considérer les ins
 
 - Faites un Fork du répertoire de [MegaMek sur Github](https://github.com/MegaMek/megamek) et faites un clone lu code source pour que votre équipe. Dans le fichier [README.md](https://github.com/MegaMek/megamek#readme), vous pouvez trouver les instructions supplémentaires sur la façon de construire MegaMek (adaptez-vous en conséquence, car de nombreux projets open source sont un peu négligents pour garder leur documentation à jour).
 - Tous les membres de votre équipe doivent être ajoutés au érertoire Github en tant que collaborateurs.
-- Ajoutez vos enseignants (Francis Cardinal et Ali Ouni) en tant que collaborateurs à votre repertoire (voici les ID github de [Francis Cardinal](https://github.com/a-venir), et de [Ali Ouni](https://github.com/ouniali)).
+- Ajoutez vos enseignants (Francis Cardinal et Ali Ouni) en tant que collaborateurs à votre repertoire (voici les ID github de [Francis Cardinal](https://github.com/fcets), et de [Ali Ouni](https://github.com/ouniali)).
 - Faites des commits de vos changements régulièrement en fournissant des informations sur l'activité réalisée. Toute activité spécifique nécessitant une modification de fichiers doit être intégrée dans un commit spécifique avec une description simple de la tache de maintenance effectuée. Par exemple, si vous changez le système pour supprimer un « God Class », votre commit serait:
 `` Refactoring God Class`` ou ``correction de God Class (Extraire une classe)`` ou ``correction de God Class (suppression du code dupliqué)``
 si vous introduisez de nouveaux tests :
