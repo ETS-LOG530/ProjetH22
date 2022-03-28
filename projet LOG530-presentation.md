@@ -17,7 +17,7 @@
 <a name="description"></a>
 ### 1. Description et réglements
 
-Chaque équipe devra donner une courte présentation du travail fait lors du projet. Les présentations auront lieu le **8 avril**. Chaque équipe aura 15 minutes pour démontrer le travail fait lors de ce projet de réingénierie au reste de la classe et au professeur, qui jouera le rôle du client qui prend livraison d’un système modifié via la réingénierie. Le calendrier des présentations sera disponible sur Moodle.
+Chaque équipe devra donner une courte présentation du travail fait lors du projet. Les présentations auront lieu le **8 avril**. Chaque équipe aura 12 minutes pour démontrer le travail fait lors de ce projet de réingénierie au reste de la classe et au professeur, qui jouera le rôle du client qui prend livraison d’un système modifié via la réingénierie. Le calendrier des présentations sera disponible sur Moodle.
 
 Les règlements pour les présentations sont les suivants :
 
@@ -25,7 +25,7 @@ Les règlements pour les présentations sont les suivants :
 
 Vous devrez présenter le projet que vous avez réalisé au cours de la session. Les règlements pour les présentations sont les suivants :
 - Tous les membres de l’équipe doivent **obligatoirement** être présents et participer à la présentation de leur équipe (via la plateforme zoom). Chaque membre de l’équipe doit présenter sa contribution individuelle au projet. Dans le cas où plusieurs équipiers auraient participé à la réalisation d’un même composant ou même tâche du projet, ils peuvent diviser la tâche de les présenter comme bon leur semble, à condition qu’ils se divisent le travail de façon égale.
-- Les présentations seront d’une durée de **15 minutes** par équipe, suivie d'une période de **5 minutes** pour les questions. Les présentations qui excèdent cette durée seront interrompues avant la fin. Chaque présentation sera suivie d’une courte période de questions.
+- Les présentations seront d’une durée de **12 minutes** par équipe, suivie d'une période de **3 minutes** pour les questions. Les présentations qui excèdent cette durée seront interrompues avant la fin. Chaque présentation sera suivie d’une courte période de questions.
 - Garder votre caméra ouverte pendant la période de présentation et des questions.
 - Vous devez présenter tous les changements implémentés (refactorings, tests, fonctionalités, documentation, etc.), les patrons de réingénie appliqués, ainsi que les outils utilisés (rétro-ingénireie, conception, mesure de qualité, code smells, refactoring, gestion de projet, etc.). Vous devez démontrer comment un utilisateur interagit avec votre nouvelle fonctionnalité implémentée, et ce qu’il peut accomplir. 
 - Présentez votre projet en supposant que votre audience ne connaît rien à votre projet et ses objectifs, mais est familière avec les sujets abordés dans le cours.
