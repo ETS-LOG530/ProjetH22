@@ -168,6 +168,7 @@ Pour montrer que vous avez réussi le projet, vous devrez démontrer ce qui suit
 
 Les aspects que nous aimons généralement voir abordés dans le rapport sont les suivants:
 
+- **Lien Github** : Ajouter votre lien Github de votre projet dans la premiére page de votre rapport.
 - **Contexte** : discuter brièvement du contexte dans lequel vous exécutez votre projet.
 - **Problème à résoudre** : clarifier le problème à la base du projet et indiquer ses difficultés intrinsèques.
 - **Gestion de projet** : démontrer comment vous avez organisé le travail et comment vous le contrôlez (au lieu d’un travail qui vous contrôle !)
