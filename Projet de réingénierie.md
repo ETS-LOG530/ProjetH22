@@ -192,12 +192,12 @@ Vous êtes encouragés à discuter du projet et à poser vos questions en utilis
 
 <a name="remise"></a>
 ## 10. Remise
-Le travail doit être remis électroniquement sur Moodle au plus tard le **8 avril à 23h59**. Vous devrez remettre une archive ``zip`` ou ``tar.gz`` contenant tous les fichiers (rapport, présentation PowerPoint, code source, etc.), ainsi qu’un fichier texte indiquant le nom de tous les membres de l’équipe ayant contribué à la réalisation du travail, et **le lien du projet sur Github**. 
+Le travail doit être remis électroniquement sur Moodle au plus tard le **8 avril à 23h59**. Vous devrez remettre une archive ``zip`` ou ``tar.gz`` contenant tous les fichiers (rapport, présentation PowerPoint, code source, etc.), ainsi qu’un fichier texte indiquant le nom de tous les membres de l’équipe ayant contribué à la réalisation du travail, et **votre lien du projet sur Github**. 
 Une seule remise électronique est nécessaire par équipe. Remettez aussi individuellement le tableau de contribution tel vu dans le laboratoire précédent.
 Pour faciliter la correction, vous devez nommer votre dossier de la remise de la façon suivante :
 
 ```
-LOG530H2021-Projet-EquipeYY-CodePermanent1_CodePermanent2_CodePermanent3
+LOG530H2022-Projet-EquipeYY-CodePermanent1_CodePermanent2_CodePermanent3
 ```
 
 et votre rapport ainsi :
