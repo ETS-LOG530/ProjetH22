@@ -119,6 +119,7 @@ Organiser le travail à faire entre les membres de l’équipe et estimer l'effo
 1. Le refactoring pour faciliter/supporter la nouvelle fonctionnalité, et
 2. Modifier/étendre les tests.
 
+Pour une meilleure organisation du travail, vous pourriez utiliser un outil de gestion de projet tel que [Kanban Board](https://www.atlassian.com/software/jira/templates/kanban). 
 <a name="partie4"></a>
 ### Partie 4 : Refactoring
 
